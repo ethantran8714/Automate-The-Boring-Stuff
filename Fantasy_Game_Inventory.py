@@ -60,7 +60,6 @@ Note that the addedItems list can contain multiples of the same item.
 
 """
 
-
 def addToInventory(inventory, addedItems):
     items_to_be_added = {}
 
